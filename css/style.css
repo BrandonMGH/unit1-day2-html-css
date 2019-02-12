@@ -1,0 +1,49 @@
+body {
+    /* Put a 15-pixel margin at the top of all h2 headings. */
+    background-color: #efeee7;
+    font: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+      background-color: #333333;
+  }
+
+  h1 {
+      color: #eee;
+      font-size: 28px;
+      text-align: center;
+  }
+  
+  h2 {
+      font-size: 24px;
+      margin: 0 auto;
+  }
+
+  #main-bio, #contact-info, #bio-image {
+      float: left;
+  }
+
+  #bio-image {
+      width: 200px;
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  #main-bio {
+      width: 70%;
+  }
+
+  #contact-info {
+      width: 30%;
+      line-height: 36px
+      
+  }
+
+  a {
+    color:#d21034;
+  }
